@@ -18,6 +18,4 @@
   <li><a href="https://krasnoyarsk.hh.ru/resume/1a4f14a0ff03c355ac0039ed1f454d53367859" target="_blank">HedHunter</a></li>
 </ul></h4>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Korobeynikov_dev&theme=dark)](https://github.com/Korobeynikovi/leetcode-stats)
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Korobeynikov_dev)](https://leetcode.com/Korobeynikov_dev)
