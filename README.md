@@ -19,3 +19,5 @@
 </ul></h4>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Korobeynikov_dev&theme=dark)](https://github.com/Korobeynikovi/leetcode-stats)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Korobeynikov_dev)](https://leetcode.com/Korobeynikov_dev)
