@@ -5,10 +5,12 @@
 <h4>
   Стек:
   <ul>
-    <li>.NET 7.0</li>
+    <li>.NET 8.0</li>
     <li>MSSql</li>
     <li>PostgreSql</li>
     <li>Kafka</li>
+    <li>RabbitMQ</li>
+    <li>ELK</li>
   </ul>
 </h4>
 
